@@ -1,0 +1,19 @@
+Net::SMTP>>> Net::SMTP(2.31)
+Net::SMTP>>>   Net::Cmd(2.29)
+Net::SMTP>>>     Exporter(5.64_01)
+Net::SMTP>>>   IO::Socket::INET(1.31)
+Net::SMTP>>>     IO::Socket(1.31)
+Net::SMTP>>>       IO::Handle(1.28)
+Net::SMTP=GLOB(0x2ab397c)<<< 220 smtp6.gmoserver.jp ESMTP Postfix
+Net::SMTP=GLOB(0x2ab397c)>>> EHLO localhost.localdomain
+Net::SMTP=GLOB(0x2ab397c)<<< 250-smtp6.gmoserver.jp
+Net::SMTP=GLOB(0x2ab397c)<<< 250-PIPELINING
+Net::SMTP=GLOB(0x2ab397c)<<< 250-SIZE 150000000
+Net::SMTP=GLOB(0x2ab397c)<<< 250-ETRN
+Net::SMTP=GLOB(0x2ab397c)<<< 250-STARTTLS
+Net::SMTP=GLOB(0x2ab397c)<<< 250-AUTH PLAIN LOGIN
+Net::SMTP=GLOB(0x2ab397c)<<< 250-AUTH=PLAIN LOGIN
+Net::SMTP=GLOB(0x2ab397c)<<< 250-ENHANCEDSTATUSCODES
+Net::SMTP=GLOB(0x2ab397c)<<< 250-8BITMIME
+Net::SMTP=GLOB(0x2ab397c)<<< 250 DSN
+Could not authenticate No such file or directory at -e line 4.

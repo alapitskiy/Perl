@@ -1,0 +1,16 @@
+<<< 220 BoonDoggle.GOV says hello
+>>> EHLO Example.ORG
+<<< 250-mail.Example.COM
+<<< 250 DSN
+>>> MAIL FROM:<Alice@Example.ORG> RET=HDRS ENVID=QQ314159
+<<< 250 sender okay
+>>> RCPT TO:<Sam@Boondoggle.GOV> NOTIFY=SUCCESS \
+    ORCPT=rfc822;George@Tax-ME.GOV
+<<< 250 recipient okay
+>>> DATA
+<<< 354 send message
+>>> (message goes here)
+>>> .
+<<< 250 message received
+>>> QUIT
+<<< 221 bcnu

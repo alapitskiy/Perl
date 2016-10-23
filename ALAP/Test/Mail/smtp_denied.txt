@@ -1,0 +1,14 @@
+220 mx.zero.jp ESMTP Postfix
+>EHLO [78.111.92.107]
+250-mx.zero.jp
+250-PIPELINING
+250-SIZE 150000000
+250-VRFY
+250-ETRN
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250 DSN
+>MAIL FROM:<alapitskiy@fitechsource.com>
+250 2.1.0 Ok
+>RCPT TO:<alapitskiy@fitechsource.com>
+554 5.7.1 <alapitskiy@fitechsource.com>: Relay access denied

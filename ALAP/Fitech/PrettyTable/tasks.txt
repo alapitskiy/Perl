@@ -1,0 +1,62 @@
+Test scenariobbbbbbbb	Oracle	MS	Postgresa
+Transactionalaaaa logging manual commit test	+	+	+
+Transactional logging auto commit test	+	+	+
+Palette database spring bootstrap test	+	+	+
+Cluster replicator optimistic lock test	+	+	+
+Random data cluster multi thread test	+	+	+
+Hsql mem-db adaptor test	+	+	+
+Hsql integrity commit test	+	+	+
+Schema customiztion script test	+	+	+
+Transactional logging codec test	+	+	+
+Transactional logging rollback test	+	+	+
+Jdbc replicating callback test	+	+	+
+Transactional foreign key failure test	+	+	+
+Jdbc replication data types test	+	+	+
+Transactional logging replicator test	+	+	+
+Transactional logging switching test	+	+	+
+Transactional logging data replication test	+	+	+
+Palette database test	+	+	+
+Operations order test	+	+	+
+Palette database tx isolation test	+	+	+
+Palette database driver test	+	+	+
+Cluster modes test	+	+	+
+Cluster data test	+	+	+
+Cluster with schema customization test	+	+	+
+Cluster database failover test	+	+	+
+Cluster transaction logging failover test	+	+	+
+Cluster driver test	+	+	+
+Cluster multi-threaded test	+	+	+
+Replication URL provider test	+	+	+
+Range sql test	+	+	+
+Range custom sql test	+	+	+
+Multiple schema dml test	+	+	+
+DataSource partition test	+	+	+
+DataSource partition test2	+	+	+
+DataSource partition test3	+	+	+
+Multiple data source test	+	+	+
+Multiple data source commit failure test	+	+	+
+MVCCTest	+	+	+
+Update operation test	+	+	+
+Master tables functional test	+	+	+
+Synchronous replicating test	+	+	+
+Insert only tables test	+	+	+
+GridGain cluster test	+	+	+
+Transactional persistent database test	+	+	+
+External replication test	+	+	+
+Data source partition router hash int test	+	+	+
+Data source partition router hash long test	+	+	+
+Data source partition router hash string test	+	+	+
+Data types precision oracle test	+	+	+
+Data types replication oracle test	+	+	+
+Database schema initializer test	+	+	+
+Default values test	+	+	+
+Multiple data source test	+	+	+
+Multiple schema test	+	+	+
+Replicating test	+	+	+
+Sql schema reader constraints test	+	+	+
+Sql schema reader test	+	+	+
+Precision replicating date test	+	+	+
+Precision replicating timestamp test	+	+	+
+Update foreings test	+	+	+
+Unsupported database objects test	+	+	+
+Unsupported datatypes test	+	+	+
